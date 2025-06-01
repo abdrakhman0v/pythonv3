@@ -1,3 +1,17 @@
 [
-    {"timestamp": "2025-03-10 12:30:45", "event": "User logged in", "user_id": 123}
+    {
+        "timestamp": "2025-03-10 12:30:45",
+        "event": "User logged in",
+        "user_id": 123
+    },
+    {
+        "timestamp": "2025-05-30 21-43-04",
+        "event": "User log out",
+        "user_id": 777
+    },
+    {
+        "timestamp": "2025-05-30 21-44-08",
+        "event": "User updeated profile",
+        "user_id": 123
+    }
 ]

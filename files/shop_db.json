@@ -1,12 +1,22 @@
 [
     {
-        "id": 1,
-        "title": "nike",
-        "price": 1200
+        "id": 2,
+        "title": "iPhone",
+        "price": 30000
     },
     {
         "id": 2,
         "title": "iPhone",
         "price": 30000
+    },
+    {
+        "id": 3,
+        "title": "ps",
+        "price": 500
+    },
+    {
+        "id": 4,
+        "title": "Samsung",
+        "price": 20000
     }
 ]
