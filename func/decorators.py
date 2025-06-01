@@ -130,10 +130,4 @@
 #     print(f"Пользователь {user['name']} удален.")
 # delete_user({"name": "Tema", "is_admin": False})
 
-import time
 
-def timing
-
-def slow_func():
-    time.sleep(1)
-    print("Готово.")
