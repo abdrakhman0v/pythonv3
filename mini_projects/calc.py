@@ -24,7 +24,7 @@ while True:
             3:("*",lambda x, y: x * y),
             4:("**",lambda x, y: x ** y),
             5:("/",lambda x, y: x / y),
-            6:("//", lambda x, y: x // y),
+            6:("//",lambda x, y: x // y),
             7:("%",lambda x, y: x % y)
         }
 
