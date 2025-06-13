@@ -32,7 +32,7 @@ def answer(message):
 @bot.message_handler(content_types=['text'])
 def check(message):
     if message.text == 'Да':
-        msg = bot.send_message(message.chat.id, 'Хорошо введи слово',
+        msg = bot.send_message(message.chat.id, 'Хорошо, введи слово',
                                reply_markup=telebot.types.ReplyKeyboardRemove())
         bot.register_next_step_handler(msg, answer)
     elif message.text == 'Нет':
