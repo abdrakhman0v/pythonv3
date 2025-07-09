@@ -14,6 +14,7 @@ while True:
     phones = soup.find_all('div', class_='item product_listbox oh')
 
     products = []
+    
     for phone in phones:
         title = phone.find('div', class_='listbox_title oh').text.replace('\n', '')
         price = phone.find('div', class_='listbox_price text-center').text.replace('\n', '').strip()

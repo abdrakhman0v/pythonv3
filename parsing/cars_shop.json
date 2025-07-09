@@ -1,151 +1,8 @@
 [
     {
         "id": 1,
-        "title": "Geely Atlas",
-        "price": "$21800...1906628сом",
-        "image": "https://im.mashina.kg/tachka/images//8/4/f/84f2bc607aa7d93bdd3b13e5a3c10f0b_240x180.jpg",
-        "info": {
-            "year-miles": "2025 г., 1.5 л., робот",
-            "body-type": "внедорожник 5 дв., бензин",
-            "volume": "руль слева, 10 км"
-        }
-    },
-    {
-        "id": 2,
-        "title": "Changan CS75",
-        "price": "$13500...1180710сом",
-        "image": "https://im.mashina.kg/tachka/images//9/0/3/903c73e83035a2e8a9e937a7b9b5135b_240x180.jpg",
-        "info": {
-            "year-miles": "2025 г., 1.5 л., робот",
-            "body-type": "внедорожник 5 дв., бензин",
-            "volume": "руль слева, 10 км"
-        }
-    },
-    {
-        "id": 3,
-        "title": "Changan CS75",
-        "price": "$13500...1180710сом",
-        "image": "https://im.mashina.kg/tachka/images//3/5/2/352852650245e769cad2348aa6342af5_240x180.jpg",
-        "info": {
-            "year-miles": "2025 г., 1.5 л., робот",
-            "body-type": "внедорожник 5 дв., бензин",
-            "volume": "руль слева, 10 км"
-        }
-    },
-    {
-        "id": 4,
-        "title": "Lexus ES",
-        "price": "$27000...2361420сом",
-        "image": "https://im.mashina.kg/tachka/images//d/f/5/df5c268ceb6d305735af260e4e2d0de7_240x180.jpg",
-        "info": {
-            "year-miles": "2021 г., 2.5 л., вариатор",
-            "body-type": "седан, гибрид",
-            "volume": "руль слева, 19 700 км"
-        }
-    },
-    {
-        "id": 5,
-        "title": "BMW 7 серии",
-        "price": "$110000...9620600сом",
-        "image": "https://im.mashina.kg/tachka/images//9/f/1/9f1adb71b83186c8ca4fdf261085914c_240x180.jpg",
-        "info": {
-            "year-miles": "2023 г., 3 л., автомат",
-            "body-type": "седан, бензин",
-            "volume": "руль слева, 30 000 км"
-        }
-    },
-    {
-        "id": 6,
-        "title": "Lexus LX",
-        "price": "$49900...4364254сом",
-        "image": "https://im.mashina.kg/tachka/images//4/5/6/4564114eb010731e5fc4ac418a160a0b_240x180.jpg",
-        "info": {
-            "year-miles": "2013 г., 5.7 л., автомат",
-            "body-type": "внедорожник 5 дв., бензин",
-            "volume": "руль слева, 150 000 км"
-        }
-    },
-    {
-        "id": 7,
-        "title": "Toyota Highlander",
-        "price": "$52000...4547920сом",
-        "image": "https://im.mashina.kg/tachka/images//1/8/e/18e52b7a8b75e67b9beb269167ea46a7_240x180.jpg",
-        "info": {
-            "year-miles": "2023 г., 2.5 л., автомат",
-            "body-type": "внедорожник 5 дв., гибрид",
-            "volume": "руль слева, 425 км"
-        }
-    },
-    {
-        "id": 8,
-        "title": "Audi A8",
-        "price": "$46000...4023160сом",
-        "image": "https://im.mashina.kg/tachka/images//7/6/3/76342b7bc76012c76f52d744967a0820_240x180.jpg",
-        "info": {
-            "year-miles": "2023 г., 2 л., автомат",
-            "body-type": "седан, бензин",
-            "volume": "руль слева, 5 400 км"
-        }
-    },
-    {
-        "id": 9,
-        "title": "Toyota 4Runner",
-        "price": "$34500...3017370сом",
-        "image": "https://im.mashina.kg/tachka/images//b/8/9/b8985a9323f968b50069c02595acd5a2_240x180.jpg",
-        "info": {
-            "year-miles": "2021 г., 4 л., автомат",
-            "body-type": "внедорожник 5 дв., бензин",
-            "volume": "руль слева, 112 654 км"
-        }
-    },
-    {
-        "id": 10,
-        "title": "Lexus NX",
-        "price": "$27500...2405150сом",
-        "image": "https://im.mashina.kg/tachka/images//2/1/4/214251523c09413b71616b8e19d70f8e_240x180.jpg",
-        "info": {
-            "year-miles": "2017 г., 2.5 л., вариатор",
-            "body-type": "внедорожник 5 дв., гибрид",
-            "volume": "руль слева, 100 000 км"
-        }
-    },
-    {
-        "id": 11,
         "title": "Toyota Camry",
-        "price": "$26000...2273960сом",
-        "image": "https://im.mashina.kg/tachka/images//2/d/8/2d868b3f40dcb18394dc0c9638327257_240x180.jpg",
-        "info": {
-            "year-miles": "2022 г., 2 л., вариатор",
-            "body-type": "седан, бензин",
-            "volume": "руль слева, 5 000 км"
-        }
-    },
-    {
-        "id": 12,
-        "title": "Toyota Land Cruiser Prado",
-        "price": "$58000...5072680сом",
-        "image": "https://im.mashina.kg/tachka/images//a/9/f/a9f86024b84e685f201bf7c576d21341_240x180.jpg",
-        "info": {
-            "year-miles": "2018 г., 4 л., автомат",
-            "body-type": "внедорожник 5 дв., бензин",
-            "volume": "руль слева, 100 000 км"
-        }
-    },
-    {
-        "id": 13,
-        "title": "Kia K3",
-        "price": "$12500...1093250сом",
-        "image": "https://im.mashina.kg/tachka/images//e/f/0/ef054fc1a1a3558acc751c6e42b0b892_240x180.jpg",
-        "info": {
-            "year-miles": "2021 г., 1.6 л., вариатор",
-            "body-type": "седан, бензин",
-            "volume": "руль слева, 152 000 км"
-        }
-    },
-    {
-        "id": 14,
-        "title": "Toyota Camry",
-        "price": "$17500...1530550сом",
+        "price": "$17500...1531075сом",
         "image": "https://im.mashina.kg/tachka/images//c/7/f/c7f186af171c748db31a4f4040cc6a8c_240x180.jpg",
         "info": {
             "year-miles": "2021 г., 2.5 л., автомат",
@@ -154,69 +11,212 @@
         }
     },
     {
-        "id": 15,
-        "title": "Honda Stream",
-        "price": "$6500...568490сом",
-        "image": "https://im.mashina.kg/tachka/images//f/7/9/f79574ca4de84500def9fb9f5592cf7d_240x180.jpg",
+        "id": 2,
+        "title": "Toyota 4Runner",
+        "price": "$35999...3149553сом",
+        "image": "https://im.mashina.kg/tachka/images//b/e/5/be5e67b91df570692b2772ba66ad8b1a_240x180.jpg",
         "info": {
-            "year-miles": "2001 г., 1.7 л., автомат",
-            "body-type": "компактвэн, бензин",
-            "volume": "руль справа, 170 000 км"
+            "year-miles": "2018 г., 4 л., автомат",
+            "body-type": "внедорожник 5 дв., бензин",
+            "volume": "руль слева, 111 044 км"
+        }
+    },
+    {
+        "id": 3,
+        "title": "Lexus ES",
+        "price": "$27000...2362230сом",
+        "image": "https://im.mashina.kg/tachka/images//d/f/5/df5c268ceb6d305735af260e4e2d0de7_240x180.jpg",
+        "info": {
+            "year-miles": "2021 г., 2.5 л., вариатор",
+            "body-type": "седан, гибрид",
+            "volume": "руль слева, 19 700 км"
+        }
+    },
+    {
+        "id": 4,
+        "title": "BMW X5",
+        "price": "$39400...3447106сом",
+        "image": "https://im.mashina.kg/tachka/images//4/e/e/4eea05f4197e011810e26732030eea5c_240x180.jpg",
+        "info": {
+            "year-miles": "2019 г., 3 л., автомат",
+            "body-type": "внедорожник 5 дв., бензин",
+            "volume": "руль слева, 154 000 км"
+        }
+    },
+    {
+        "id": 5,
+        "title": "Toyota 4Runner",
+        "price": "$34500...3018405сом",
+        "image": "https://im.mashina.kg/tachka/images//b/8/9/b8985a9323f968b50069c02595acd5a2_240x180.jpg",
+        "info": {
+            "year-miles": "2021 г., 4 л., автомат",
+            "body-type": "внедорожник 5 дв., бензин",
+            "volume": "руль слева, 112 654 км"
+        }
+    },
+    {
+        "id": 6,
+        "title": "BMW X7",
+        "price": "$76000...6649240сом",
+        "image": "https://im.mashina.kg/tachka/images//4/3/2/432f1b8306326218aa9cb58cd430d74a_240x180.jpg",
+        "info": {
+            "year-miles": "2022 г., 3 л., автомат",
+            "body-type": "внедорожник 5 дв., дизель",
+            "volume": "руль слева, 61 000 км"
+        }
+    },
+    {
+        "id": 7,
+        "title": "Toyota Camry",
+        "price": "$26000...2274740сом",
+        "image": "https://im.mashina.kg/tachka/images//2/d/8/2d868b3f40dcb18394dc0c9638327257_240x180.jpg",
+        "info": {
+            "year-miles": "2022 г., 2 л., вариатор",
+            "body-type": "седан, бензин",
+            "volume": "руль слева, 5 000 км"
+        }
+    },
+    {
+        "id": 8,
+        "title": "Toyota Land Cruiser Prado",
+        "price": "$58000...5074420сом",
+        "image": "https://im.mashina.kg/tachka/images//a/9/f/a9f86024b84e685f201bf7c576d21341_240x180.jpg",
+        "info": {
+            "year-miles": "2018 г., 4 л., автомат",
+            "body-type": "внедорожник 5 дв., бензин",
+            "volume": "руль слева, 100 000 км"
+        }
+    },
+    {
+        "id": 9,
+        "title": "Toyota Camry",
+        "price": "$36700...3210883сом",
+        "image": "https://im.mashina.kg/tachka/images//8/4/0/8405b0fc812a04357c11b09185a26344_240x180.jpg",
+        "info": {
+            "year-miles": "2024 г., 2 л., вариатор",
+            "body-type": "седан, гибрид",
+            "volume": "руль слева, 15 000 км"
+        }
+    },
+    {
+        "id": 10,
+        "title": "Kia K3",
+        "price": "$12500...1093625сом",
+        "image": "https://im.mashina.kg/tachka/images//e/f/0/ef054fc1a1a3558acc751c6e42b0b892_240x180.jpg",
+        "info": {
+            "year-miles": "2021 г., 1.6 л., вариатор",
+            "body-type": "седан, бензин",
+            "volume": "руль слева, 152 000 км"
+        }
+    },
+    {
+        "id": 11,
+        "title": "BMW 5 серии",
+        "price": "$26500...2318485сом",
+        "image": "https://im.mashina.kg/tachka/images//5/1/8/5188dec91c9b029739f081c86e6746e6_240x180.jpg",
+        "info": {
+            "year-miles": "2018 г., 2 л., автомат",
+            "body-type": "седан, бензин",
+            "volume": "руль слева, 108 000 км"
+        }
+    },
+    {
+        "id": 12,
+        "title": "BMW X3",
+        "price": "$67000...5861830сом",
+        "image": "https://im.mashina.kg/tachka/images//a/d/b/adb2804cd9b3bfc42fcd99808ed1c9a2_240x180.jpg",
+        "info": {
+            "year-miles": "2025 г., 2 л., автомат",
+            "body-type": "внедорожник 5 дв., бензин",
+            "volume": "руль слева, 54 км"
+        }
+    },
+    {
+        "id": 13,
+        "title": "Tank 400",
+        "price": "$45500...3980795сом",
+        "image": "https://im.mashina.kg/tachka/images//b/a/9/ba9ab428c6dec8e6e37154d3d9ca9ed3_240x180.jpg",
+        "info": {
+            "year-miles": "2025 г., 2 л., автомат",
+            "body-type": "внедорожник 5 дв., гибрид",
+            "volume": "руль слева, 25 км"
+        }
+    },
+    {
+        "id": 14,
+        "title": "BMW X5",
+        "price": "$25000...2187250сом",
+        "image": "https://im.mashina.kg/tachka/images//e/2/a/e2ab925e3da96bbfb551a6dcf27f4798_240x180.jpg",
+        "info": {
+            "year-miles": "2015 г., 3 л., автомат",
+            "body-type": "внедорожник 5 дв., дизель",
+            "volume": "руль слева, 235 000 км"
+        }
+    },
+    {
+        "id": 15,
+        "title": "Toyota Camry",
+        "price": "$12000...1049880сом",
+        "image": "https://im.mashina.kg/tachka/images//4/5/9/4596b4de20255af52bb2b4ed228d91ee_240x180.jpg",
+        "info": {
+            "year-miles": "2015 г., 2.5 л., автомат",
+            "body-type": "седан, бензин",
+            "volume": "руль слева, 156 000 км"
         }
     },
     {
         "id": 16,
-        "title": "BMW X5 M",
-        "price": "$84000...7346640сом",
-        "image": "https://im.mashina.kg/tachka/images//c/b/0/cb0b527010e7d2924a8a6baf7e81cbab_240x180.jpg",
+        "title": "Honda CR-V",
+        "price": "$11700...1023633сом",
+        "image": "https://im.mashina.kg/tachka/images//b/c/a/bca1db8ee7695ba7551f1a8ff319f235_240x180.jpg",
         "info": {
-            "year-miles": "2020 г., 4.4 л., автомат",
+            "year-miles": "2007 г., 2.4 л., автомат",
             "body-type": "внедорожник 5 дв., бензин",
-            "volume": "руль слева, 58 000 км"
+            "volume": "руль слева, 110 000 км"
         }
     },
     {
         "id": 17,
-        "title": "EXEED VX",
-        "price": "$38000...3323480сом",
-        "image": "https://im.mashina.kg/tachka/images//5/f/e/5fec919e86e6d6fe3872773d235fc0c2_240x180.jpg",
+        "title": "Mercedes-Benz C-Класс",
+        "price": "$15500...1356095сом",
+        "image": "https://im.mashina.kg/tachka/images//e/d/9/ed994338dd800e14e9bd4b5d6ca27abf_240x180.jpg",
         "info": {
-            "year-miles": "2024 г., 2 л., автомат",
-            "body-type": "внедорожник 5 дв., бензин",
-            "volume": "руль слева, 20 км"
+            "year-miles": "2018 г., 2 л., автомат",
+            "body-type": "седан, бензин",
+            "volume": "руль слева, 145 000 км"
         }
     },
     {
         "id": 18,
-        "title": "Toyota 4Runner",
-        "price": "$13000...1136980сом",
-        "image": "https://im.mashina.kg/tachka/images//9/2/d/92d7f9dfd2b5016581971a1da01b85fa_240x180.jpg",
+        "title": "Kia Sorento",
+        "price": "$17600...1539824сом",
+        "image": "https://im.mashina.kg/tachka/images//a/b/b/abb50d8539a8f312f9d799be9e38162a_240x180.jpg",
         "info": {
-            "year-miles": "2003 г., 4.7 л., автомат",
-            "body-type": "внедорожник 5 дв., бензин",
-            "volume": "руль слева, 160 930 км"
+            "year-miles": "2019 г., 2 л., автомат",
+            "body-type": "внедорожник 5 дв., дизель",
+            "volume": "руль слева, 70 500 км"
         }
     },
     {
         "id": 19,
-        "title": "BMW X7",
-        "price": "$59000...5160140сом",
-        "image": "https://im.mashina.kg/tachka/images//b/b/d/bbd3b01ef43a2e10af62393004275c3c_240x180.jpg",
+        "title": "Toyota Prius",
+        "price": "$13000...1137370сом",
+        "image": "https://im.mashina.kg/tachka/images//7/1/3/713a15bb2567b7b0cc4e936c791c33eb_240x180.jpg",
         "info": {
-            "year-miles": "2021 г., 3 л., автомат",
-            "body-type": "внедорожник 5 дв., бензин",
-            "volume": "руль слева, 63 000 км"
+            "year-miles": "2016 г., 1.8 л., вариатор",
+            "body-type": "лифтбек, гибрид",
+            "volume": "руль слева, 319 000 км"
         }
     },
     {
         "id": 20,
-        "title": "Cadillac XT5",
-        "price": "$18000...1574280сом",
-        "image": "https://im.mashina.kg/tachka/images//0/2/a/02acec92931a337b7eb08dc93819648c_240x180.jpg",
+        "title": "Mercedes-Benz CLS",
+        "price": "$15900...1391091сом",
+        "image": "https://im.mashina.kg/tachka/images//8/1/6/816500030e334d27521dce356bc0c619_240x180.jpg",
         "info": {
-            "year-miles": "2022 г., 2 л., автомат",
-            "body-type": "внедорожник 5 дв., бензин",
-            "volume": "руль слева, 1 000 км"
+            "year-miles": "2005 г., 5 л., автомат",
+            "body-type": "седан, бензин",
+            "volume": "руль слева, 193 000 км"
         }
     }
 ]

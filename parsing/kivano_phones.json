@@ -1,10 +1,5 @@
 [
     {
-        "title": "Сотовый телефон Xiaomi Redmi Note 14 Pro 4G 12/256GB черный",
-        "price": "22970 сом",
-        "image": "www.kivano.kg/images/product/143939/1737013193_68676500.jpg"
-    },
-    {
         "title": "Сотовый телефон Xiaomi Redmi Note 13 8/256GB голубой",
         "price": "15140 сом",
         "image": "www.kivano.kg/images/product/132096/1705999822_48551100.jpg"
@@ -98,5 +93,10 @@
         "title": "Сотовый телефон Google Pixel 9 256GB черный",
         "price": "73830 сом-4%71020 сом",
         "image": "www.kivano.kg/images/product/140041/1725121446_13864400.jpg"
+    },
+    {
+        "title": "Сотовый телефон Samsung Galaxy A16 8/256GB серый",
+        "price": "20250 сом-7%18930 сом",
+        "image": "www.kivano.kg/images/product/143369/1735486267_10664900.jpg"
     }
 ]

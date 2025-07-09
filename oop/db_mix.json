@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "title": "Toyota",
+        "price": 11500
+    },
+    {
+        "id": 2,
+        "title": "Subaru",
+        "price": 8000
+    },
+    {
+        "id": 3,
+        "title": "BMW",
+        "price": 6500
+    }
+]

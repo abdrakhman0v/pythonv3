@@ -14,6 +14,7 @@ soup = bs(html, 'lxml')
 cars = soup.find_all('div', class_='list-item list-label')
 
 for car in cars:
+    
     title = car.find('div', class_='block title').text.strip()
     price = car.find('div', class_='block price').text.strip().replace(' ', '').replace('\n', '.')
     image = car.find('img').get('src')
